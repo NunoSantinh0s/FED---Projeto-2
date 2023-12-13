@@ -1,0 +1,92 @@
+,Ano,Pilotos,Equipe,Carro,Pneus,Voltas,Distância
+0,2023,"James Calado, Antonio Giovinazzi, Alessandro Pier Guidi",Ferrari–AF Corse,Ferrari 499P,M,342,4660.1
+1,2022,"Sébastien Buemi, Brendon Hartley, Ryo Hirakawa",Toyota Gazoo Racing,Toyota GR010 Hybrid,M,380,5177.17
+2,2021,"Mike Conway, José María López, Kamui Kobayashi",Toyota Gazoo Racing,Toyota GR010 Hybrid,M,371,5054.5
+3,2020,"Sébastien Buemi Kazuki Nakajima, Brendon Hartley",Toyota Gazoo Racing,Toyota TS050 Hybrid,M,387,5273.262
+4,2019,"Sébastien Buemi Kazuki Nakajima, Fernando Alonso",Toyota Gazoo Racing,Toyota TS050 Hybrid,M,385,5246.01
+5,2018,"Sébastien Buemi Kazuki Nakajima, Fernando Alonso",Toyota Gazoo Racing,Toyota TS050 Hybrid,M,388,5286.888
+6,2017,"Timo Bernhard Earl Bamber, Brendon Hartley",Porsche Team,Porsche 919 Hybrid,M,367,5001.834
+7,2016,"Marc Lieb, Neel Jani, Romain Dumas",Porsche Team,Porsche 919 Hybrid,M,384,5233.53
+8,2015,"Nico Hülkenberg, Earl Bamber, Nick Tandy",Porsche Team,Porsche 919 Hybrid,M,395,5383.46
+9,2014,"Marcel Fässler, André Lotterer, Benoît Tréluyer",Audi Sport Team Joest,Audi R18 e-tron quattro,M,379,5165.39
+10,2013,"Tom Kristensen, Allan McNish, Loïc Duval",Audi Sport Team Joest,Audi R18 e-tron quattro,M,348,4742.89
+11,2012,"Marcel Fässler, André Lotterer, Benoît Tréluyer",Audi Sport Team Joest,Audi R18 e-tron quattro,M,378,5151.76
+12,2011,"Marcel Fässler, André Lotterer, Benoît Tréluyer",Audi Sport Team Joest,Audi R18 TDi,M,355,4838.3
+13,2010,"Mike Rockenfeller, Timo Bernhard, Romain Dumas",Audi Sport North America,Audi R15 TDI plus,M,397,5410.71
+14,2009,"David Brabham, Marc Gené, Alexander Wurz",Peugeot Sport Total,Peugeot 908 HDi FAP,M,382,5206.28
+15,2008,"Tom Kristensen, Allan McNish, Rinaldo Capello",Audi Sport North America,Audi R10 TDI,M,381,5192.65
+16,2007,"Frank Biela, Emanuele Pirro, Marco Werner",Audi Sport North America,Audi R10 TDI,M,369,5036.85
+17,2006,"Frank Biela, Emanuele Pirro, Marco Werner",Audi Sport Team Joest,Audi R10 TDI,M,380,5187.0
+18,2005,"JJ Lehto, Marco Werner, Tom Kristensen",ADT Champion Racing,Audi R8,M,370,5050.5
+19,2004,"Seiji Ara, Tom Kristensen, Rinaldo Capello",Audi Sport Japan Team Goh,Audi R8,M,379,5169.9
+20,2003,"Tom Kristensen, Rinaldo Capello, Guy Smith",Team Bentley,Bentley Speed 8,M,377,5146.05
+21,2002,"Frank Biela, Tom Kristensen, Emanuele Pirro",Audi Sport Team Joest,Audi R8,M,375,5118.75
+22,2001,"Frank Biela, Tom Kristensen, Emanuele Pirro",Audi Sport Team Joest,Audi R8,M,321,4381.65
+23,2000,"Frank Biela, Tom Kristensen, Emanuele Pirro",Audi Sport Team Joest,Audi R8,M,368,5007.99
+24,1999,"Pierluigi Martini, Yannick Dalmas, Joachim Winkelhock",Team BMW Motorsport,BMW V12 LMR,M,365,4968.0
+25,1998,"Laurent Aïello, Allan McNish, Stéphane Ortelli",Porsche AG,Porsche 911 GT1-98,M,351,4773.18
+26,1997,"Michele Alboreto, Stefan Johansson, Tom Kristensen",Joest Racing,TWR Porsche WSC-95,G,361,4909.6
+27,1996,"Manuel Reuter, Davy Jones, Alexander Wurz",Joest Racing,TWR Porsche WSC-95,G,354,4814.4
+28,1995,"Yannick Dalmas, JJ Lehto, Masanori Sekiya",Kokusai Kaihatsu Racing,McLaren F1 GTR,M,298,4055.8
+29,1994,"Yannick Dalmas, Hurley Haywood, Mauro Baldi",Le Mans Porsche Team,Dauer 962 Le Mans,G,344,4678.4
+30,1993,"Geoff Brabham, Christophe Bouchut, Eric Hélary",Peugeot Talbot Sport,Peugeot 905 Evo 1B,M,375,5100.0
+31,1992,"Derek Warwick, Yannick Dalmas, Mark Blundell",Peugeot Talbot Sport,Peugeot 905 Evo 1B,M,352,4787.2
+32,1991,"Volker Weidler, Johnny Herbert, Bertrand Gachot",Mazdaspeed Co. Ltd.,Mazda 787B,D,362,4922.81
+33,1990,"John Nielsen, Price Cobb, Martin Brundle",Silk Cut Jaguar,Jaguar XJR-12,G,359,4882.4
+34,1989,"Jochen Mass, Manuel Reuter, Stanley Dickens",Team Sauber Mercedes,Sauber C9-Mercedes-Benz,M,389,5265.115
+35,1988,"Jan Lammers, Johnny Dumfries, Andy Wallace",Silk Cut Jaguar,Jaguar XJR-9LM,D,394,5332.97
+36,1987,"Derek Bell, Hans-Joachim Stuck, Al Holbert",Rothmans Porsche AG,Porsche 962C,D,354,4791.9
+37,1986,"Derek Bell, Hans-Joachim Stuck, Al Holbert",Rothmans Porsche AG,Porsche 962C,D,367,4972.731
+38,1985,"Klaus Ludwig, Paolo Barilla, ""John Winter""",Joest Racing,Porsche 956,D,373,5088.507
+39,1984,"Klaus Ludwig, Henri Pescarolo",Joest Racing,Porsche 956,D,359,4900.276
+40,1983,"Vern Schuppan, Al Holbert, Hurley Haywood",Rothmans Porsche,Porsche 956,D,370,5047.934
+41,1982,"Jacky Ickx, Derek Bell",Rothmans Porsche System,Porsche 956,D,359,4899.086
+42,1981,"Jacky Ickx, Derek Bell",Porsche System,Porsche 936,D,354,4825.348
+43,1980,"Jean Rondeau, Jean-Pierre Jaussaud",Jean Rondeau,Rondeau M379B-Ford Cosworth,G,338,4608.02
+44,1979,"Klaus Ludwig, Bill Whittington, Don Whittington",Porsche Kremer Racing,Porsche 935 K3,D,307,4173.93
+45,1978,"Jean-Pierre Jaussaud, Didier Pironi",Alpine Renault,Renault Alpine A442B,M,369,5044.53
+46,1977,"Jacky Ickx, Hurley Haywood, Jürgen Barth",Martini Racing Porsche System,Porsche 936/77,D,342,4671.83
+47,1976,"Jacky Ickx, Gijs van Lennep",Martini Racing Porsche System,Porsche 936,G,349,4769.923
+48,1975,"Jacky Ickx, Derek Bell",Gulf Research Racing Co.,Mirage GR8-Ford Cosworth,G,336,4594.577
+49,1974,"Henri Pescarolo, Gérard Larrousse",Equipe Gitanes,Matra MS670C,G,337,4606.571
+50,1973,"Henri Pescarolo, Gérard Larrousse",Equipe Matra-Simca Shell,Matra MS670B,G,355,4853.945
+51,1972,"Henri Pescarolo, Graham Hill",Equipe Matra-Simca Shell,Matra MS670,G,344,4691.343
+52,1971,"Helmut Marko, Gijs van Lennep",Martini Racing Team,Porsche 917K,F,397,5335.313
+53,1970,"Hans Herrmann, Richard Attwood",Porsche KG Salzburg,Porsche 917K,G,343,4607.81
+54,1969,"Jacky Ickx, Jackie Oliver",J.W. Automotive Engineering,Ford GT40 Mk. I,F,372,4997.88
+55,1968,"Pedro Rodríguez, Lucien Bianchi",J.W. Automotive Engineering,Ford GT40 Mk. I,F,331,4452.88
+56,1967,"Dan Gurney, A.J. Foyt",Shelby-American Inc.,Ford GT40 Mk. IV,G,388,5232.9
+57,1966,"Bruce McLaren, Chris Amon",Shelby-American Inc.,Ford GT40 Mk. II,G,360,4843.09
+58,1965,"Jochen Rindt, Masten Gregory, Ed Hugus",North American Racing Team,Ferrari 250LM,G,348,4677.11
+59,1964,"Jean Guichet, Nino Vaccarella",SpA Ferrari SEFAC,Ferrari 275P,D,349,4695.31
+60,1963,"Ludovico Scarfiotti, Lorenzo Bandini",SpA Ferrari SEFAC,Ferrari 250P,D,339,4561.71
+61,1962,"Olivier Gendebien, Phil Hill",SpA Ferrari SEFAC,Ferrari 330 TRI/LM Spyder,D,331,4451.255
+62,1961,"Olivier Gendebien, Phil Hill",Scuderia Ferrari,Ferrari 250 TRI/61,D,333,4476.58
+63,1960,"Olivier Gendebien, Paul Frère",Scuderia Ferrari,Ferrari 250 TR59/60,D,314,4217.527
+64,1959,"Carroll Shelby, Roy Salvadori",David Brown Racing Dept.,Aston Martin DBR1,A,323,4347.9
+65,1958,"Olivier Gendebien, Phil Hill",Scuderia Ferrari,Ferrari 250 TR58,E,305,4101.926
+66,1957,"Ron Flockhart, Ivor Bueb",Ecurie Ecosse,Jaguar D-Type,D,327,4397.108
+67,1956,"Ron Flockhart, Ninian Sanderson",Ecurie Ecosse,Jaguar D-Type,D,300,4034.939
+68,1955,"Mike Hawthorn, Ivor Bueb",Jaguar Cars Ltd.,Jaguar D-Type,D,307,4135.38
+69,1954,"José Froilán González, Maurice Trintignant",Scuderia Ferrari,Ferrari 375 Plus,P,302,4061.15
+70,1953,"Tony Rolt, Duncan Hamilton",Jaguar Cars Ltd.,Jaguar C-Type,D,304,4088.064
+71,1952,"Hermann Lang, Fritz Riess",Daimler-Benz A.G.,Mercedes-Benz 300SL,C,277,3733.839
+72,1951,"Peter Walker, Peter Whitehead",Peter Walker,Jaguar XK-120C,D,267,3611.193
+73,1950,"Louis Rosier, Jean-Louis Rosier",Louis Rosier,Talbot-Lago T26 Grand Sport,D,256,3465.12
+74,1949,"Luigi Chinetti, Peter Mitchell-Thomson",Lord Selsdon,Ferrari 166MM,E,235,3178.299
+76,1939,"Jean-Pierre Wimille, Pierre Veyron",Jean-Pierre Wimille,Bugatti Type 57S Tank,D,248,3354.76
+77,1938,"Eugène Chaboud, Jean Trémoulet",Eugène Chaboud / Jean Trémoulet,Delahaye 135CS,D,235,3180.94
+78,1937,"Jean-Pierre Wimille, Robert Benoist",Roger Labric,Bugatti Type 57G Tank,D,243,3287.938
+80,1935,"Johnny Hindmarsh, Luis Fontés",Arthur W. Fox / Charles Nichol,Lagonda M45R Rapide,D,222,3006.797
+81,1934,"Luigi Chinetti, Philippe Étancelin",Luigi Chinetti / Philippe Étancelin,Alfa Romeo 8C 2300,E,213,2886.938
+82,1933,"Raymond Sommer, Tazio Nuvolari",Soc. Anon. Alfa Romeo,Alfa Romeo 8C 2300,E,233,3144.038
+83,1932,"Raymond Sommer, Luigi Chinetti",Raymond Sommer,Alfa Romeo 8C 2300,E,218,2954.038
+84,1931,"Earl Howe, Henry Birkin",Earl Howe,Alfa Romeo 8C 2300,D,184,3017.654
+85,1930,"Woolf Barnato, Glen Kidston",Bentley Motors Ltd.,Bentley Speed Six,D,179,2930.663
+86,1929,"Woolf Barnato, Henry Birkin",Bentley Motors Ltd.,Bentley Speed Six,D,174,2843.83
+87,1928,"Woolf Barnato, Bernard Rubin",Bentley Motors Ltd.,Bentley 4½ Litre,D,154,2669.272
+88,1927,"Dudley Benjafield, Sammy Davis",Bentley Motors Ltd.,Bentley 3 Litre Super Sport,D,137,2369.807
+89,1926,"Robert Bloch, André Rossignol",Sem designação,Lorraine-Dietrich B3-6,D,147,2552.414
+90,1925,"Gérard de Courcelles, André Rossignol",Sem designação,Lorraine-Dietrich B3-6,D,129,2233.982
+91,1924,"John Duff, Frank Clement",Duff & Aldington,Bentley 3 Litre Sport,D,120,2077.341
+92,1923,"André Lagache, René Léonard",Chenard & Walcker SA,Chenard & Walcker Sport 3-Litre,M,128,2209.536
